@@ -9,8 +9,8 @@ class Insertionsort{
                 j--;
             }
             
-            arr[j+1] = key;                                                                                           //[78,8,98,09] key 98
-                                                                                                                       //[78,8,8,09]
+            arr[j+1] = key;                                                                                           
+                                                                                                            
         }
     }
     public static void main(String[] args){
